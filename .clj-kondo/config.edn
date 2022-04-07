@@ -1,0 +1,3 @@
+{:lint-as {nubank.workspaces.core/defcard              cljs.core/def
+           nubank.workspaces.core/deftest              cljs.core/def}
+ :linters {:unused-binding {:exclude-destructured-keys-in-fn-args true}}}
